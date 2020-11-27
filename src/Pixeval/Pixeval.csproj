@@ -41,7 +41,7 @@
     <PackageReference Include="AdaptiveCards" Version="1.2.4" />
     <PackageReference Include="AdysTech.CredentialManager.Core" Version="1.9.0" />
     <PackageReference Include="AngleSharp" Version="0.13.0" />
-    <PackageReference Include="CefSharp.Wpf" Version="79.1.360" />
+    <PackageReference Include="CefSharp.Wpf" Version="86.0.241" />
     <PackageReference Include="Dragablz" Version="0.0.3.203" />
     <PackageReference Include="EmbedIO" Version="3.4.3" />
     <PackageReference Include="Extended.Wpf.Toolkit" Version="3.7.0" />
